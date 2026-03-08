@@ -4,6 +4,7 @@ public class Student {
     int age;
 
     void sayHello() {
+        System.out.println("Git test");
         System.out.println("Hi, I'm " + name + ", age " + age);
     }
 
